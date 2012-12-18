@@ -6,7 +6,7 @@ import main.behavior.IterateBehavior;
 import main.behavior.PutBehavior;
 
 /**
- * Hashtable implementation using open addressing
+ * Hash table implementation using open addressing
  * - holds objects of Item class
  * - has a constant capacity set at creation and throws exception if capacity is exceeded
  * - uses open addressing and sequential probing to resolve collisions
