@@ -1,14 +1,8 @@
 package main.behavior;
 
 import main.Item;
+import main.IterateBehavior;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Qba
- * Date: 18.12.12
- * Time: 23:06
- * To change this template use File | Settings | File Templates.
- */
 public class PutBehavior implements IterateBehavior {
 
     private Item returnValue;

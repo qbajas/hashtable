@@ -1,6 +1,5 @@
-package main.behavior;
+package main;
 
-import main.Item;
 
 /**
  * This class encapsulates behavior

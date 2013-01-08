@@ -2,7 +2,6 @@ package main;
 
 import exception.FullException;
 import main.behavior.GetBehavior;
-import main.behavior.IterateBehavior;
 import main.behavior.PutBehavior;
 
 /**
